@@ -12,18 +12,6 @@ public class GuildHallUIController : MonoBehaviour
     [SerializeField] private GameObject acceptedContractsPanel;
     [SerializeField] private GameObject partyAssignmentPanel;
     
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void OpenJobBoard()
     {
         contractsPanel.SetActive(true);

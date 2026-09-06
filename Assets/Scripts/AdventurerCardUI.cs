@@ -2,14 +2,11 @@ using UnityEngine;
 
 public class AdventurerCardUI : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    [SerializeField] private bool isInParty;
+    [SerializeField] private GameObject counterpartCard;
+    [SerializeField] private PartyAssignmentController partyAssignmentController;
 
-    // Update is called once per frame
-    void Update()
+    public void CardClicked()
     {
         
     }
