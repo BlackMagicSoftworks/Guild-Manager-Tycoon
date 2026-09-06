@@ -38,8 +38,5 @@ gameplay systems independently.
 **Version Control:** Git / GitHub  
 **Development Status:** Early Prototype
 
-Unlike the coursework projects on this profile, Guild Manager Tycoon is
-an independent project that I am designing and developing from the ground up.
-
 The project is actively in development, so systems and architecture may
 change substantially as the prototype evolves.
